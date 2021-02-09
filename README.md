@@ -1,18 +1,21 @@
 ![Képernyőkép erről: 2021-02-09 13-56-19](https://user-images.githubusercontent.com/66601688/107370092-d2fed000-6ae2-11eb-9136-678dbcebfef4.png)
 
+<h2 align="center">Hi 👋, I'm Noémi Lili Verebélyi</h2>
+<h4 align="center">A Japanese studies graduate who is learning sofrware development</h4>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/nollili" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nollili" height="30" width="40" /></a>
 <a href="https://dev.to/@nollili" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@nollili" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lili-no%C3%A9mi-vereb%C3%A9lyi-ba0b34140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lili noémi verebélyi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14207645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14207645" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nollili&show_icons=true&locale=en&layout=compact" alt="nollili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nollili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nollili" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nollili&show_icons=true&locale=en" alt="nollili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nollili&show_icons=true&locale=en&theme=tokyonight" alt="nollili" /></p>
 
 
 
@@ -36,7 +39,7 @@
 
 
 
-
+&nbsp;
 
 
 <img src="Képernyőkép erről: 2021-02-09 13-56-19.png" alt="Girl" height="300">
