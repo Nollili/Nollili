@@ -13,9 +13,13 @@
 <a href="https://stackoverflow.com/users/14207645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14207645" height="30" width="40" /></a>
 </p>
 
+
+
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<codersrank-skills-chart username="nollili"></codersrank-skills-chart>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nollili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nollili" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nollili&show_icons=true&locale=en&theme=tokyonight" alt="nollili" /></p>
 
 
 
@@ -38,6 +42,7 @@
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nollili&show_icons=true&locale=en&theme=tokyonight" alt="nollili" /></p>
 
 &nbsp;
 
