@@ -15,8 +15,6 @@
 
 
 
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
-<codersrank-skills-chart username="nollili"></codersrank-skills-chart>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nollili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nollili" /></p>
 
@@ -57,6 +55,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili&theme=tokyonight)](https://github.com/Nollili/github-readme-stats)
 <br>
 
+
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<codersrank-skills-chart username="nollili"></codersrank-skills-chart>
 
 Here are some ideas to get you started:
 
