@@ -1,6 +1,6 @@
 
 ![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true&count_private=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili)](https://github.com/Nollili/github-readme-stats)
 
 
 
