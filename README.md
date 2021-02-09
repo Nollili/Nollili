@@ -6,17 +6,14 @@
 <p align="left">
 <a href="https://codepen.io/nollili" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nollili" height="30" width="40" /></a>
 <a href="https://dev.to/@nollili" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@nollili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lili noémi verebélyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lili noémi verebélyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lili-no%C3%A9mi-vereb%C3%A9lyi-ba0b34140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lili noémi verebélyi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14207645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14207645" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nollili&show_icons=true&locale=en&layout=compact" alt="nollili" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nollili&show_icons=true&locale=en" alt="nollili" /></p>
 
-
-![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true&count_private=true&theme=tokyonight)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili&langs_count=8&theme=tokyonight)](https://github.com/Nollili/github-readme-stats)
 
 
 
@@ -30,6 +27,17 @@
 
 <!--
 **Nollili/Nollili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true&count_private=true&theme=tokyonight)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili&langs_count=8&theme=tokyonight)](https://github.com/Nollili/github-readme-stats)
+
+
+
+
+
+
 
 <img src="Képernyőkép erről: 2021-02-09 13-56-19.png" alt="Girl" height="300">
 ### Hi there 👋
