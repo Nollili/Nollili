@@ -1,7 +1,8 @@
 
 ![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true&count_private=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili)](https://github.com/Nollili/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili&langs_count=8&theme=tokyonight)](https://github.com/Nollili/github-readme-stats)
 
 
 
@@ -22,6 +23,9 @@
 [![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili)](https://github.com/Nollili/github-readme-stats)(https://github.com/Nollili/github-readme-stats)
 ![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&count_private=true)
 ![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nollili&theme=tokyonight)](https://github.com/Nollili/github-readme-stats)
+<br>
 
 
 Here are some ideas to get you started:
