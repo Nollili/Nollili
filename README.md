@@ -1,6 +1,4 @@
-
-![Girl!](Képernyőkép erről: 2021-02-09 13-56-19.png)
-
+![Képernyőkép erről: 2021-02-09 13-56-19](https://user-images.githubusercontent.com/66601688/107370092-d2fed000-6ae2-11eb-9136-678dbcebfef4.png)
 
 ![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true&count_private=true&theme=tokyonight)
 <br>
