@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili)](https://github.com/Nollili/github-readme-stats)
+![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&count_private=true)
+![Nollili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nollili&show_icons=true)
 
 
 
